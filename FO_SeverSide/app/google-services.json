@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8259875113",
+    "project_id": "foserver-5758d",
+    "storage_bucket": "foserver-5758d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8259875113:android:7ece12482e8fa5b0c4c738",
+        "android_client_info": {
+          "package_name": "com.example.fo_severside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8259875113-3d1cu3n66i3vev5itlaemghboe6uri08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fo_severside",
+            "certificate_hash": "8ab158d9fc098c90cf15aa5e00a8953502bf5b48"
+          }
+        },
+        {
+          "client_id": "8259875113-43iporbi12u5d6cva9lljkjnavu12575.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxFC1ag8R9uaXJdfmWlnOCFKNd00FlYek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8259875113-43iporbi12u5d6cva9lljkjnavu12575.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
